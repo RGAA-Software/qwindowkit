@@ -29,6 +29,7 @@
 #endif
 
 #include <QWKCore/qwkconfig.h>
+#include <shellapi.h>
 
 #include "qwkglobal_p.h"
 #include "qwkwindowsextra_p.h"
